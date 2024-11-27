@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # Socket-Chat-room
 =======
+Watch video demo in here: https://www.youtube.com/watch?v=wpkspqBC50c
 # Socket in C
 
 _Sockets are low level endpoint used for processing information across a network.Common networking protocols like HTTP and FTP rely on the sockets underneath to make connection._
