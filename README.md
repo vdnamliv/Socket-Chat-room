@@ -1,5 +1,4 @@
 # Socket-Chat-room
-=======
 Watch video demo in here: https://www.youtube.com/watch?v=wpkspqBC50c
 # Socket in C
 
